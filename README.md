@@ -2,4 +2,4 @@
 
 we plotted life expectancy over time
 
-continents are grouped by color
+continents are grouped by colors
